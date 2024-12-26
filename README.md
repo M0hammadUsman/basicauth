@@ -72,4 +72,4 @@ This repository contains a **frontend Kotlin app** and a **backend Golang API** 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/M0hammadUsman/basicauth.git
